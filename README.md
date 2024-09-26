@@ -1,4 +1,7 @@
-# OUTPUT
-![image](https://github.com/user-attachments/assets/50017747-db61-4ce2-ada9-066c2ecb293b)
-![image](https://github.com/user-attachments/assets/0e680585-4f13-4978-affe-9c8d51f150b5)
+## HR-Dashboard-MYSQL-PowerBI
+
+![image](https://github.com/user-attachments/assets/cc0a9673-72e4-484b-873b-cf1da853b5e7)
+![image](https://github.com/user-attachments/assets/6a72e512-0f58-4c10-b30d-e9da0fc25fcf)
+
+
 
